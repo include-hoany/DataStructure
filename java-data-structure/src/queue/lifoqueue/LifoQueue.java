@@ -1,4 +1,4 @@
-package queue;
+package queue.lifoqueue;
 
 public class LifoQueue<T> {
     private int size = 0;
